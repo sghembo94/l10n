@@ -1,3 +1,13 @@
+
+How to edit your own trnslation files
+=========================================
+https://civicrm.org/blog/spidersilk/how-to-edit-your-own-sites-civicrm-translation-files
+
+1) install poedit
+2) edit .po files
+3) msgcat -o civicrm.po *.po
+4) msgfmt -o civicrm.mo civicrm.po
+
 Localisation files for CiviCRM: https://civicrm.org/
 
 How to localise your CiviCRM installation
