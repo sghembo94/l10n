@@ -3422,6 +3422,11 @@ msgid ""
 msgstr "Una volta terminata correttamente la transazione, verrà inviata una email di ricevuta a %1."
 
 #: templates/CRM/Contribute/Form/Contribution/ThankYou.tpl
+msgid ""
+"An email receipt will be sent to you once the transaction is processed successfully."
+msgstr "Una volta terminata correttamente la transazione, ti invieremo una email di ricevuta."
+
+#: templates/CRM/Contribute/Form/Contribution/ThankYou.tpl
 msgid "Your transaction has been processed successfully."
 msgstr ""
 
