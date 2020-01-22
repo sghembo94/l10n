@@ -3407,7 +3407,7 @@ msgstr "Una email di conferma con le istruzioni di pagamento è stato inviato a 
 
 #: templates/CRM/Contribute/Form/Contribution/ThankYou.tpl
 msgid "Your contribution has been submitted to %1 for processing."
-msgstr ""
+msgstr "La tua donazione è stata inviata a %1 per l'elaborazione."
 
 #: templates/CRM/Contribute/Form/Contribution/ThankYou.tpl
 msgid ""
